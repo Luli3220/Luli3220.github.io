@@ -21,10 +21,16 @@ I am currently a second-year undergraduate student in the School of Data Science
 
 My research interests include:
 - **Large Language Models**
-- **Reinforcement Learning**
-
+- **Reinforcement Learning**:search agent,rubrics as rewards.
+- **Graph-empowered LLM-based Applications**: expert finding.
 ★★★ Feel free to reach out to me for academic discussions and collaborations!
 
+<span class='anchor' id='publications'></span>
+
+# 🔥 News
+- *2026.01* 🎊🎊 Happy New Year! A recent work RATE has been released on ArXiv!
+
+{% include_relative includes/pub.md %}
 
 # 📖 Educations
 - *2024.09 - now*, Undergraduate student, Data Science and Engineering, East China Normal University  <img src='./images/logos/ecnu.png' style='width: 2.3em;'>
