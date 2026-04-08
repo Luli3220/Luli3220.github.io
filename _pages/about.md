@@ -29,7 +29,7 @@ My research interests include:
 <span class='anchor' id='publications'></span>
 
 # 🔥 News
-- *2026.04* 🔥🔥 Our work RATE is accepted by ACL 2026, see you in CA!
+- *2026.04* 🔥🔥 Our work RATE is accepted by ACL 2026, see you in San Diego!
 - *2026.01* 🎊🎊 Happy New Year! A recent work RATE has been released on ArXiv!
 
 {% include_relative includes/pub.md %}
@@ -45,5 +45,5 @@ My research interests include:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 
-💻 Internships
+# 💻 Internships
 2025.9 - now Research Assistant, PLANING Lab, Shanghai, China.
