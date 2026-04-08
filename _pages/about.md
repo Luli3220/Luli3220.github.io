@@ -45,5 +45,5 @@ My research interests include:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 
-<!-- # 💻 Internships -->
-<!-- - *2023.11 - now* NLP Research Intern, NLP Group, Shanghai AI Laboratory <img src='./images/logos/shailab-logo.svg' style='width: 1.90em;'>, Shanghai, China. -->
+💻 Internships
+2025.9 - now Research Assistant, PLANING Lab, Shanghai, China.
