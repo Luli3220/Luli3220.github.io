@@ -19,11 +19,11 @@ redirect_from:
 
 # About Me
 
-I am currently a second-year undergraduate student in the School of Data Science and Engineering., East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) lab.
+I am currently a second-year undergraduate student in the School of Data Science and Engineering, East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) lab.
 
 My recent research interests lie in large language models and their post-training, with a focus on:
-- **LLM Post-training and Reinforcement Learning** OPD, search agents, and rubrics as rewards.
-- **LLM-based Scientific Application**:especially paper assignment.
+- **LLM Post-training and Reinforcement Learning**: OPD, search agents, and rubrics as rewards.
+- **LLM-based Scientific Application**: especially paper assignment.
 
 Beyond research, I am also interested in value investing.
 
