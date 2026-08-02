@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zixuan Yang"
 description              : ""
-repository               : "Luli3220/ZiXuanYang.github.io"
+repository               : "Luli3220/Luli3220.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -27,7 +27,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=Q7ZjDV4AAAAJ&hl=en"
   email            : "zixuanyang@stu.ecnu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

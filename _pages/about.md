@@ -45,12 +45,6 @@ Although I am still early in my research journey, I am eager to explore opportun
 - *2024.09 - now*, Undergraduate student, Data Science and Engineering, East China Normal University  <img src='./images/logos/ecnu.png' style='width: 2.3em;'>
 
 
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-
 <!-- # 💻 Internships
 2025.9 - now Research Assistant, PLANING Lab, Shanghai, China. -->
 
