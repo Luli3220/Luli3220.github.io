@@ -23,7 +23,7 @@ I am currently a second-year undergraduate student in the School of Data Science
 
 My recent research interests lie in large language models and their post-training, with a focus on:
 - **LLM Post-training and Reinforcement Learning**: OPD, search agents, and rubrics as rewards.
-- **LLM-based Scientific Application**: especially paper assignment.
+- **LLM-based Scientific Application**: especially reviewer assignment.
 
 Beyond research, I am also interested in value investing.
 
@@ -34,6 +34,7 @@ Although I am still early in my research journey, I am eager to explore opportun
 <span class='anchor' id='publications'></span>
 
 # 🔥 News
+- *2026.08* 🔥🔥 Our work MERIT is accepted by EMNLP 2026, see you in Budapest!
 - *2026.05* 🎊🎊 A recent work MERIT has been released on ArXiv!
 - *2026.04* 🔥🔥 Our work RATE is accepted by ACL 2026, see you in San Diego!
 - *2026.01* 🎊🎊 Happy New Year! A recent work RATE has been released on ArXiv!
