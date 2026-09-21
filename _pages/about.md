@@ -19,15 +19,14 @@ redirect_from:
 
 # About Me
 
-I am currently a second-year undergraduate student in the School of Data Science and Engineering, East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) lab.
+I am a third-year undergraduate student at the School of Data Science and Engineering, East China Normal University, advised by [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) Lab.
 
-My recent research interests lie in large language models and their post-training, with a focus on:
-- **LLM Post-training and Reinforcement Learning**: OPD, search agents, and rubrics as rewards.
-- **LLM-based Scientific Application**: especially reviewer assignment.
+My research focuses on the **quality and selection of supervision signals for large language model post-training**. I study how to construct supervision that reflects task objectives and identify which signals are most useful for learning. My work spans:
 
-Beyond research, I am also interested in value investing.
+- **LLM post-training.** I am particularly interested in on-policy distillation (OPD) and the selection of supervision signals, alongside rubric-guided reinforcement learning. I also hope to extend these ideas to agents and multimodal reasoning.
+- **LLMs for scientific applications.** I study reviewer assignment as a setting for developing and evaluating task-specific supervision, including expertise ranking in [RATE](https://arxiv.org/abs/2601.19637) and rubric-informed training in [MERIT](https://arxiv.org/abs/2605.27865).
 
-Although I am still early in my research journey, I am eager to explore opportunities in both academia and industry. I also enjoy connecting with people who share similar interests, whether to discuss research ideas, collaboration opportunities, or personal experiences.
+Beyond research, I am also interested in value investing and enjoy exchanging ideas with people from both academia and industry.
 
 ★★★ Feel free to reach out to me for academic discussions and collaborations!
 
