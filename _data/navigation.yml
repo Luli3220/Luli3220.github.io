@@ -9,10 +9,6 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "CV"
-    url: "/files/Zixuan_Yang_CV.pdf"
-    target: "_blank"
-
 #  - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
 
