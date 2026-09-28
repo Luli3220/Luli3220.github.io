@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "ZiXuan Yang"
-  avatar           : "images/person.jpg"
+  avatar           : "images/avatar-square.png"
   bio              : "Undergraduate Student, East China Normal University"
   location         : "Shanghai, China"
   employer         :
