@@ -19,18 +19,11 @@ redirect_from:
 
 # About Me
 
-I am a third-year undergraduate student at the School of Data Science and Engineering, East China Normal University, advised by [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) Lab.
+I am a third-year undergraduate student at the School of Data Science and Engineering, East China Normal University, advised by [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING Lab. My current research focuses on large language model post-training, particularly reinforcement learning and on-policy distillation, including multi-teacher approaches. More broadly, I am interested in multimodal understanding and reasoning, especially how models integrate information across modalities to understand and reason about the world.
 
-My current research focuses on **the design and selection of supervision signals for LLM post-training**. I study how to construct supervision aligned with task objectives and select informative signals for learning. My work includes:
+I value simplicity and clarity in research. I enjoy breaking down complex problems to uncover their underlying structure.
 
-- **LLM post-training.** I investigate selective supervision for on-policy distillation, as explored in [S²D-OPD](https://arxiv.org/abs/2609.29142), and rubric-guided reinforcement learning.
-- **LLMs for scientific applications.** I work on reviewer assignment, including weakly supervised expertise ranking in [RATE](https://arxiv.org/abs/2601.19637) and rubric-guided reinforcement learning for reviewer suitability assessment in [MERIT](https://arxiv.org/abs/2605.27865).
-
-Looking ahead, I hope to explore multimodal understanding and reasoning, with a particular interest in how models connect information across modalities and use it to reason about the world.
-
-Beyond research, I am also interested in value investing and enjoy exchanging ideas with people from both academia and industry.
-
-★★★ Feel free to reach out to me for academic discussions and collaborations!
+Outside research, I am interested in value investing. I also enjoy exchanging ideas with people across academia and industry. Feel free to reach out for a chat or to explore potential collaborations!
 
 <span class='anchor' id='publications'></span>
 
@@ -52,6 +45,4 @@ Beyond research, I am also interested in value investing and enjoy exchanging id
 2025.9 - now Research Assistant, PLANING Lab, Shanghai, China. -->
 
 
-> *Fast is slow.*
-
-
+> *Everything should be made as simple as possible, but not simpler.*
