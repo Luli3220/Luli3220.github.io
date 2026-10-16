@@ -41,6 +41,12 @@ Outside research, I am interested in value investing. I also enjoy exchanging id
 - *2024.09 - now*, Undergraduate student, Data Science and Engineering, East China Normal University  <img src='./images/logos/ecnu.png' style='width: 2.3em;'>
 
 
+# 🔍 Service
+
+- I have served as a reviewer for the following venue:
+  - ICLR 2027
+
+
 <!-- # 💻 Internships
 2025.9 - now Research Assistant, PLANING Lab, Shanghai, China. -->
 
